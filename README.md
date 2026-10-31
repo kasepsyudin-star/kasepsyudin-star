@@ -13,6 +13,6 @@ I'm Yus, an Informatics student at **INSTIKI Bali, Indonesia**.
 
 HTML · CSS · JavaScript · PHP · Java · Python · Vue.js · Nuxt.js · Tailwind CSS · Git
 
-### GitHub Stats
+
 
 

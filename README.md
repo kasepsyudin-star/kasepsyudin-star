@@ -1,18 +1,33 @@
-# Hi there 👋
+# `whoami`
 
-I'm Yus, an Informatics student at **INSTIKI Bali, Indonesia**.
+```bash
+$ whoami
+Yus
 
-- 🎓 Currently studying Informatics
-- 💻 Interested in Web Development
-- 🌱 Learning Vue.js, Nuxt.js, and Tailwind CSS
-- 🛠️ Working with HTML, CSS, JavaScript, Java, and Python
-- 📸 Interested in photography
-- 📚 Enjoy reading and running
+$ role
+Informatics Student
 
-### Technologies & Tools
+$ location
+Bali, Indonesia
 
-HTML · CSS · JavaScript · PHP · Java · Python · Vue.js · Nuxt.js · Tailwind CSS · Git
+$ interests
+Web Development, Technology, Photography
 
+$ currently_learning
+Vue.js, Nuxt.js, Tailwind CSS
 
+$ hobbies
+Reading, Running, Photography
 
+$ status
+Always learning...
+```
+
+### `tech_stack`
+
+`HTML` · `CSS` · `JavaScript` · `PHP` · `Java` · `Python` · `Vue.js` · `Nuxt.js`
+
+### `find_me`
+
+[GitHub](https://github.com/kasepsyudin-star)
 

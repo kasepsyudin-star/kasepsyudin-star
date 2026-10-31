@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kasepsyudin-star/kasepsyudin-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yus, an Informatics student at **INSTIKI Bali, Indonesia**.
 
-Here are some ideas to get you started:
+- 🎓 Currently studying Informatics
+- 💻 Interested in Web Development
+- 🌱 Learning Vue.js, Nuxt.js, and Tailwind CSS
+- 🛠️ Working with HTML, CSS, JavaScript, Java, and Python
+- 📸 Interested in photography
+- 📚 Enjoy reading and running
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies & Tools
+
+HTML · CSS · JavaScript · PHP · Java · Python · Vue.js · Nuxt.js · Tailwind CSS · Git
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasepsyudin-star&show_icons=true&theme=default)
+

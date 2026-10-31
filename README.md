@@ -15,5 +15,4 @@ HTML · CSS · JavaScript · PHP · Java · Python · Vue.js · Nuxt.js · Tailw
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasepsyudin-star&show_icons=true&theme=default)
 
